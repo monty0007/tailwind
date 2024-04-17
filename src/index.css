@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loki{
+    z-index: 20;
+    border-radius: 10%;
+}
+
+.lokii{
+    border-radius: 30%;
+}
+
+.dabba{
+    width: 400px;
+}
+
+.lokiii{
+    height: 40px;
+}
+
+.loka{
+    height: 40px;
+    border-radius: 20px;
+}
+@media screen and (max-width:1180px) and (min-width:800px) {
+    .loki{
+        height: 4s00px !important;
+    }
+}
